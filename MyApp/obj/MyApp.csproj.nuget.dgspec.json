@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj": {}
+    "d:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "D:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj": {
+    "d:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "d:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "D:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj",
+        "projectPath": "d:\\lab\\MyDotNetCoreProject\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
-        "outputPath": "D:\\lab\\MyDotNetCoreProject\\MyApp\\obj\\",
+        "outputPath": "d:\\lab\\MyDotNetCoreProject\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config"
